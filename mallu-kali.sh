@@ -65,6 +65,30 @@ clear
 delepo-mrd3vil
 fi
 }
+function gh05t-kali () {
+banners-logo
+sleep 2
+pkg install wget -y
+pkg install python -y
+wget https://raw.githubusercontent.com/GH05T-HUNTER5/kali-havk/main/install.sh
+if [ -f install.sh ]; then
+echo ""
+clear
+banners-logo
+echo "  please wait..."
+sleep 5
+bash install.sh
+else
+echo ""
+banners-logo
+echo "  please wait..."
+sleep 5
+pkg install wget
+pkg install wget -y && wget https://raw.githubusercontent.com/GH05T-HUNTER5/kali-havk/main/install.sh && bash install.sh
+fi
+}
+
+
 
 
 
