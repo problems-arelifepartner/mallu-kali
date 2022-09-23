@@ -26,6 +26,11 @@ After the installation is complete, type
 
 <img src="https://raw.githubusercontent.com/problems-arelifepartner/mallu-kali/main/.img/IMG_20220923_174616.jpg">
 
+### Contact us :
+
+<img src="https://camo.githubusercontent.com/7970579c20bd99c5055e33b423d3b2cbb223e30630181864e8fbd7cfa137bc0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2d464f4c4c4f572d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d">
+<img src="https://camo.githubusercontent.com/5e9dda15ed592074f05517e015de1e2b0d9e5d26a3d564f4335cdae49e489132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54454c454752414d2d4348414e4e454c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" 
+
 <p><b>THANKS TO :</b></p>
 
 <li><a href="https://github.com/problems-arelifepartner">problems-arelifepartner</a></li>
