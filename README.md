@@ -1,12 +1,12 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97L2WhK8Cf7cGjKmIU5UWmOVECyHJGzHvew&usqp=CAU" alt="GH05T HUNTER5">
-<!--
+
 ## INSTALLATION (Termux)
---><!--
+
 * `apt upgrade`
-* `apt update`--><!--
+* `apt update`
 * `pkg install git`
 * `git clone https://github.com/problems-arelifepartner/mallu-kali`
-* `cd mallu-kali`--><!--
+* `cd mallu-kali`<!--
 * `bash mallu-kali.sh`
 --><!--
 ```
