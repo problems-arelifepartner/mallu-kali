@@ -14,13 +14,13 @@ else
 echo ""
 clear
 fi
-if [ -f  /data/data/com.termux/files/usr/bin/kalilinux ]; then
+if [ -f /data/data/com.termux/files/usr/bin/kalilinux ]; then
 rm /data/data/com.termux/files/usr/bin/kalilinux >/dev/null 2>&1
 else
 echo ""
 fi
-if [ -d  /data/data/com.termux/files/usr/.kali-gh05t ]; then
-rm -rf  /data/data/com.termux/files/usr/.kali-gh05t >/dev/null 2>&1
+if [ -d /data/data/com.termux/files/usr/.kali-gh05t ]; then
+rm -rf /data/data/com.termux/files/usr/.kali-gh05t >/dev/null 2>&1
 else
 echo ""
 fi
