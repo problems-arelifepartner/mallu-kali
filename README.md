@@ -1,5 +1,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97L2WhK8Cf7cGjKmIU5UWmOVECyHJGzHvew&usqp=CAU" alt="GH05T HUNTER5">
 
+<b>depends on :</b>
+
 <i>You need an internet connection to set up mallu kali</i>
 ## INSTALLATION (Termux)
 
