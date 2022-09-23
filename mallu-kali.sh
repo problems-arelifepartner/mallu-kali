@@ -66,6 +66,8 @@ delepo-mrd3vil
 fi
 }
 function gh05t-kali () {
+banners-logo
+sleep 2
 pkg install wget -y
 pkg install python -y
 wget https://raw.githubusercontent.com/GH05T-HUNTER5/kali-havk/main/install.sh
