@@ -1,5 +1,5 @@
-<!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97L2WhK8Cf7cGjKmIU5UWmOVECyHJGzHvew&usqp=CAU" alt="GH05T HUNTER5">
---><!--
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97L2WhK8Cf7cGjKmIU5UWmOVECyHJGzHvew&usqp=CAU" alt="GH05T HUNTER5">
+<!--
 ## INSTALLATION (Termux)
 --><!--
 * `apt upgrade`
