@@ -20,6 +20,7 @@ After the installation is complete, type
 ```
 * `kalilinux`
 
+`Now successfully installed on Termex without linux root.`
 
 <p><b>THANKS TO :</b></p>
 
