@@ -8,7 +8,7 @@ function delete-kali () {
 if [ -d /data/data/com.termux/files/home/mallu-kali ]; then
 echo ""
 cd /data/data/com.termux/files/home/ >/dev/null 2>&1
-rm -rf kali-havk >/dev/null 2>&1
+rm -rf mallu-kali >/dev/null 2>&1
 clear
 else
 echo ""
