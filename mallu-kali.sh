@@ -27,5 +27,14 @@ fi
 clear
 exit
 }
+function gh05t-update () {
+cd $HOME >/dev/null 2>&1
+rm -rf mallu-kali >/dev/null 2>&1
+git clone https://github.com/problems-arelifepartner/mallu-kali >/dev/null 2>&1
+cd mallu-kali >/dev/null 2>&1
+bash mallu-kali.sh                                                                                   clear
+}
+
+
 
 
