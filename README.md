@@ -3,6 +3,9 @@
 <b>depends on :</b>
 
 <i>You need an internet connection to set up mallu kali</i>
+
+<i>You need 500mb of phone storage</i>
+
 ## INSTALLATION (Termux)
 
 * `apt upgrade`
