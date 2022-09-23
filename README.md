@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97L2WhK8Cf7cGjKmIU5UWmOVECyHJGzHvew&usqp=CAU" alt="GH05T HUNTER5">
+<img src="https://raw.githubusercontent.com/problems-arelifepartner/mallu-kali/main/.img/IMG_20220923_201010.jpg" alt="GH05T HUNTER5">
 
 <b>depends on :</b>
 
