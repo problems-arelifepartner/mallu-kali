@@ -15,7 +15,7 @@ After the installation is complete, type
 * `kalilinux`
 
 
-<p>THANKS TO :</p>
+<p><b>THANKS TO :</b></p>
 
 <li><a href="https://github.com/problems-arelifepartner">problems-arelifepartner</a></li>
 
