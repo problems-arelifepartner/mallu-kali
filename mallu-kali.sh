@@ -49,7 +49,7 @@ echo -e "${w0} |    ${r5t}[${w0}01${r5t}] ${gh}Kali Setup                       
 echo -e "${w0} |    ${r5t}[${w0}02${r5t}] ${gh}Delete Kali                                                               ${w0}|"
 echo -e "${w0} |    ${r5t}[${w0}03${r5t}] ${gh}Update                                                                    ${w0}|"
 echo -e "${w0} |    ${r5t}[${w0}04${r5t}] ${gh}Developer                                                                 ${w0}|"
-echo -e "${w0} |    ${r5t}[${w0}05${r5t}] ${gh}Exit                                                                      ${w0}|"
+echo -e "${w0} |    ${r5t}[${w0}00${r5t}] ${gh}Exit                                                                      ${w0}|"
 echo -e "${w0} +-----------------------------------------------------------------------------------+"
 read -p $' \e[1;92m[\e[0m\e[1;77m++\e[0m\e[1;92m] Choose an option : \e[0m' option
 if [ $option = "01" ] || [ $option = "1" ]; then
@@ -76,7 +76,7 @@ clear
 delepo-mrd3vil
 clear
 exit
-elif [ $option = "05" ] || [ $option = "5" ]; then
+elif [ $option = "00" ] || [ $option = "0" ]; then
 echo ""
 clear
 exit
