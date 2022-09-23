@@ -24,3 +24,5 @@ After the installation is complete, type
 <li><a href="https://github.com/F1D41-02">F1D41-02 </a></li>
 
 <b>Legal disclaimer</b>
+
+`TO BE USED FOR EDUCATIONAL PURPOSES ONLY`
