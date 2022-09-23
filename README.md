@@ -22,6 +22,10 @@ After the installation is complete, type
 
 `Now successfully installed on Termex without linux root.`
 
+### Screenshot 
+
+<img src="https://raw.githubusercontent.com/problems-arelifepartner/mallu-kali/main/.img/IMG_20220923_174616.jpg">
+
 <p><b>THANKS TO :</b></p>
 
 <li><a href="https://github.com/problems-arelifepartner">problems-arelifepartner</a></li>
