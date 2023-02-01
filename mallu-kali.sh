@@ -70,22 +70,29 @@ banners-logo
 sleep 2
 pkg install wget -y
 pkg install python -y
-wget https://raw.githubusercontent.com/GH05T-HUNTER5/kali-havk/main/install.sh
-if [ -f install.sh ]; then
+wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter
+if [ -f NetHunter ]; then
 echo ""
 clear
 banners-logo
 echo "  please wait..."
 sleep 5
-bash install.sh
+bash NetHunter
 else
 echo ""
 banners-logo
 echo "  please wait..."
 sleep 5
 pkg install wget
-pkg install wget -y && wget https://raw.githubusercontent.com/GH05T-HUNTER5/kali-havk/main/install.sh && bash install.sh
+pkg install wget -y && wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter bash NetHunter
 fi
+rm -rf NetHunter
+if [ -f ~/mallu-kali/NetHunter ]; then
+rm ~/mallu-kali/NetHunter
+else
+echo ""
+fi
+clear 
 }
 function mainbanners () {
 clear
