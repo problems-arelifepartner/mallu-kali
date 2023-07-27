@@ -70,7 +70,7 @@ banners-logo
 sleep 2
 pkg install wget -y
 pkg install python -y
-wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter
+wget https://gh05t-hunter5.github.io/the-source/kali/NetHunter/NetHunter.sh
 if [ -f NetHunter ]; then
 echo ""
 clear
@@ -84,7 +84,7 @@ banners-logo
 echo "  please wait..."
 sleep 5
 pkg install wget
-pkg install wget -y && wget gh05t-hunter5.github.io/Basic-Installation-Termux/NetHunter/NetHunter bash NetHunter
+pkg install wget -y && wget https://gh05t-hunter5.github.io/the-source/kali/NetHunter/NetHunter.sh bash NetHunter.sh
 fi
 rm -rf NetHunter
 if [ -f ~/mallu-kali/NetHunter ]; then
