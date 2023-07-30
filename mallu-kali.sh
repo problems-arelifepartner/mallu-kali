@@ -32,7 +32,8 @@ cd $HOME >/dev/null 2>&1
 rm -rf mallu-kali >/dev/null 2>&1
 git clone https://github.com/problems-arelifepartner/mallu-kali >/dev/null 2>&1
 cd mallu-kali >/dev/null 2>&1
-bash mallu-kali.sh                                                                                   clear
+bash mallu-kali.sh                                                                                   
+clear
 }
 gh='\033[0;32m'
 w0='\033[1;37m'
