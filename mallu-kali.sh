@@ -77,7 +77,10 @@ clear
 banners-logo
 echo "  please wait..."
 sleep 5
-bash NetHunter
+bash NetHunter.sh
+echo "nh" /data/data/com.termux/files/usr/bin/kalilinux 
+chmod +x /data/data/com.termux/files/usr/bin/kalilinux
+rm -rf NetHunter.sh
 else
 echo ""
 banners-logo
@@ -85,10 +88,12 @@ echo "  please wait..."
 sleep 5
 pkg install wget
 pkg install wget -y && wget https://gh05t-hunter5.github.io/the-source/kali/NetHunter/NetHunter.sh bash NetHunter.sh
+echo "nh" /data/data/com.termux/files/usr/bin/kalilinux 
+chmod +x /data/data/com.termux/files/usr/bin/kalilinux
 fi
-rm -rf NetHunter
-if [ -f ~/mallu-kali/NetHunter ]; then
-rm ~/mallu-kali/NetHunter
+rm -rf NetHunter.sh
+if [ -f ~/mallu-kali/NetHunter.sh ]; then
+rm ~/mallu-kali/NetHunter.sh
 else
 echo ""
 fi
